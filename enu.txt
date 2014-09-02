@@ -1,2 +1,2 @@
-        8.1.1.7 SIA [21238] ENU patch applied.
+        8.1.1 $(IS_SIA) [23030] ENU full release.
         HOTFIX 
