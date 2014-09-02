@@ -1,1 +1,0 @@
-/* pricingEvent.js */
