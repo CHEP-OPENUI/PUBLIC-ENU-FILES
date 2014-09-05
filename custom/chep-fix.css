@@ -1,0 +1,18 @@
+/* Start Defect:200 CHAMARS 05 Sep 2014 */
+a {
+color: blue; /* change value inherit to blue */
+text-decoration: underline;
+}
+
+/* To add text wrap for SS question text*/
+#SSQuestionList .AppletBack {
+    white-space: pre-wrap;
+}
+/* End Defect 200: CHAMARS Date */
+
+/* Start Defect:73 CHAMARS for HomePage*/
+
+.siebui-form-label {
+white-space: nowrap; 
+}
+/*End Defect:73*/
