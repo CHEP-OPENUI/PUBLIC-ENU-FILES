@@ -16,3 +16,19 @@ text-decoration: underline;
 white-space: nowrap; 
 }
 /*End Defect:73* more stars*/
+
+/*BADLIS HI fix for salutation start 10-Sep-2014*/
+.salutation-pr-applet {
+    min-height: 30px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.salutation-pr-title {
+    float: left;
+    font-size: 1.3em;
+    margin-right: 40px;
+    font-weight: bold;
+    color: #777;
+}
+/*BADLIS HI fix for salutation END 10-Sep-2014*/
