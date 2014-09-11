@@ -17,7 +17,7 @@ white-space: nowrap;
 }
 /*End Defect:73* more stars*/
 
-/*BADLIS HI fix for salutation start 10-Sep-2014*/
+/*START***BADLIS HI fix for salutation start 10-Sep-2014*/
 .salutation-pr-applet {
     min-height: 30px;
     margin-top: 15px;
@@ -31,4 +31,10 @@ white-space: nowrap;
     font-weight: bold;
     color: #777;
 }
-/*BADLIS HI fix for salutation END 10-Sep-2014*/
+/*END ****BADLIS HI fix for salutation END 10-Sep-2014*/
+
+/*START***BADLIS Form Applet truncated - add scroll bar 11-Sep-2014*/
+div.siebui-collapsible-applet {
+    overflow-x: auto;
+}
+/*END ****BADLIS Form Applet truncated - add scroll bar 11-Sep-2014*/
