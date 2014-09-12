@@ -38,3 +38,13 @@ div.siebui-collapsible-applet {
     overflow-x: auto;
 }
 /*END ****BADLIS Form Applet truncated - add scroll bar 11-Sep-2014*/
+
+/*VINCIAC Added to Fix Row Height Issues 12-Sep-2014*/
+.ui-jqgrid tr.ui-row-ltr td {
+    height: 20px;
+    /*line-height: 20px;*/
+    padding: 0;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+} 
+/* END VINCIAC Added to Fix Row Height Issues 12-Sep-2014*/
