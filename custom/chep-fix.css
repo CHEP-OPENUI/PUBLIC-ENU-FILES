@@ -47,3 +47,11 @@ div.siebui-collapsible-applet {
     white-space: nowrap;
 } 
 /* END VINCIAC Added to Fix Row Height Issues 12-Sep-2014*******/
+
+/* MEKAA ; For Symbolic URL Iframe Applet Adjustment. Changed position value from 'Absolute' to 'Relative' */
+iframe {
+  position: relative;
+  height: 98%;
+  width: 99%;
+}
+/* End - MEKAA */
