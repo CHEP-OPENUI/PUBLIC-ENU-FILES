@@ -42,7 +42,6 @@ div.siebui-collapsible-applet {
 /*VINCIAC Added to Fix Row Height Issues 12-Sep-2014*/
 .ui-jqgrid tr.ui-row-ltr td {
     height: 20px;
-    /*line-height: 20px;*/
     padding: 0;
     text-overflow: ellipsis;
     white-space: nowrap;
