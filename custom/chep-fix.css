@@ -55,3 +55,18 @@ iframe {
   width: 99%;
 }
 /* End - MEKAA */
+
+/* MEKAA ; For MVG fields to look read only */
+div.mceGridField input.siebui-ctrl-mvg[readonly="readonly"]{
+background: #f3f3f3!important;
+border: 1px solid #CCC!important
+color: #777!important;
+}
+
+div.mceGridField input.siebui - ctrl - mvg {
+color : # 555!important;
+background : # fff!important
+}
+/* End - MEKAA */
+
+
