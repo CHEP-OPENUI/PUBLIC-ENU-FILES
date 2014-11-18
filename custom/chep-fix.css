@@ -73,7 +73,7 @@ background : # fff!important
 .ui-dialog .mceGridField textarea,
 .ui-dialog .mceField textarea {
   max-width: 100%;
-  height: 250px !important;
+  height: 270px !important;
 }
 
 /* End - MEKAA */
