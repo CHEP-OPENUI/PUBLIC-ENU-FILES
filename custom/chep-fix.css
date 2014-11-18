@@ -68,3 +68,12 @@ color : # 555!important;
 background : # fff!important
 }
 /* End - MEKAA */
+
+/* MEKAA ; To increase size of Email Body for F9  */
+.ui-dialog .mceGridField textarea,
+.ui-dialog .mceField textarea {
+  max-width: 100%;
+  height: 100px !important;
+}
+
+/* End - MEKAA */
